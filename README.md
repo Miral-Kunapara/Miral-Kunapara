@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miral-kunapara&label=Profile%20views&color=0e75b6&style=flat" alt="miral-kunapara" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/miral-kunapara](https://www.linkedin.com/in/miral-kunapara)
 
 - 📫 How to reach me **miralkunapara2003@gmail.com**
 
